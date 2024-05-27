@@ -10,6 +10,7 @@
 <a href="https://www.credly.com/badges/5d6772ac-c0e2-4ffc-938e-dbde433e5fa0/public_url"><img src= "https://davhklee.github.io/davhklee/product-assurance-and-security-yellow-belt-software.png"></a>
 <a href="https://www.credly.com/badges/4c803b7b-9820-4436-b056-e5864d969103/public_url"><img src= "https://davhklee.github.io/davhklee/product-assurance-and-security-yellow-belt-hardware.png"></a>
 <a href="https://www.credly.com/users/david-ho-kei-lee/badges"><img src= "https://davhklee.github.io/davhklee/product-assurance-and-security-white-belt.png"></a>
+<a href="https://www.credly.com/users/david-ho-kei-lee/badges"><img src= "https://davhklee.github.io/davhklee/arm_cortex_cert.jpg"></a>
 <a href="https://www.credly.com/users/david-ho-kei-lee/badges"><img src= "https://davhklee.github.io/davhklee/LB-Overall-May-2023_rank9.png"></a>
 <a href="https://www.credly.com/users/david-ho-kei-lee/badges"><img src= "https://davhklee.github.io/davhklee/quartus_fpga_training.png"></a>
 <a href="https://www.credly.com/users/david-ho-kei-lee/badges"><img src= "https://davhklee.github.io/davhklee/udemy_pythonml_bootcamp.jpg">
