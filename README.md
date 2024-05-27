@@ -1,6 +1,4 @@
-###
 <h3 align="left">🔥   My Badge</h3>
-###
 
 <a href="https://www.credly.com/badges/ab97790e-e276-478c-bb01-e93e3ba98098/public_url"><img src= "https://davhklee.github.io/homebrew/ai_production.png"></a>
 <a href="https://www.credly.com/badges/94e9eacd-521c-4599-a00d-1f4e2529f30a/public_url"><img src= "https://davhklee.github.io/homebrew/ai_python.png"></a>
