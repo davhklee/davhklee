@@ -1,5 +1,5 @@
-<a href="https://www.credly.com/badges/94e9eacd-521c-4599-a00d-1f4e2529f30a/public_url"><img src= "https://davhklee.github.io/davhklee/credly_deeplearn.png"></a>
-<a href="https://www.credly.com/badges/94e9eacd-521c-4599-a00d-1f4e2529f30a/public_url"><img src= "https://davhklee.github.io/davhklee/credly_nlp.png"></a>
+<a href="https://davhklee.github.io/davhklee/credly_deeplearn.pdf"><img src= "https://davhklee.github.io/davhklee/credly_deeplearn.png"></a>
+<a href="https://davhklee.github.io/davhklee/credly_nlp.pdf"><img src= "https://davhklee.github.io/davhklee/credly_nlp.png"></a>
 <a href="https://www.credly.com/badges/94e9eacd-521c-4599-a00d-1f4e2529f30a/public_url"><img src= "https://davhklee.github.io/davhklee/credly_pythonml.png"></a>
 <a href="https://www.credly.com/badges/ab97790e-e276-478c-bb01-e93e3ba98098/public_url"><img src= "https://davhklee.github.io/davhklee/credly_production.png"></a>
 <a href="https://www.credly.com/badges/cb92ac49-eb6e-437c-a009-890d5bfe568d/public_url"><img src= "https://davhklee.github.io/davhklee/product-assurance-and-security-blue-belt.png"></a>
